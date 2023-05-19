@@ -1,2 +1,1 @@
-# ipas_bigdata_analyst
-# 初級巨量資料分析師
+# ipas_初級巨量資料分析師考試
